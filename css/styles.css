@@ -57,6 +57,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--secondary-accent-text-color);
+  margin: 0 auto;
 }
 .link {
   text-decoration: none;
@@ -235,7 +236,6 @@ body {
   justify-content: center;
   gap: 24px;
   list-style: none;
-  margin-top: 8px;
 }
 
 .social-icon-item {
@@ -291,6 +291,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--pramery-text-color);
+  margin-bottom: 8px;
 }
 /* Customers  */
 
