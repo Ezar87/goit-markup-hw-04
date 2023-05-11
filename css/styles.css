@@ -57,7 +57,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--secondary-accent-text-color);
-  margin: 0 auto;
 }
 .link {
   text-decoration: none;
@@ -122,6 +121,7 @@ body {
   background-size: cover;
   padding: 188px 0;
   background-color: var(--secondary-text-color);
+  margin: 0 auto;
 }
 
 .hero-title {
